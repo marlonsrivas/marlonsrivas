@@ -1,4 +1,5 @@
 Hello, I am an electrical Engineering student looking forward to learn and help the community in any way I can, 
+here are some details about me,
 
 - 🔭 I’m currently working on getting my electrical engineering degree
 - 🌱 I’m currently learning SystemVerilog, Matlab, Python and Arduino
