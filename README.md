@@ -9,7 +9,7 @@ here are some details about me,
 - 📫 How to reach me: marlon.s.rivas@tcu.edu
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am from Guatemala 
--->
+
 <!--
 **marlonsrivas/marlonsrivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
